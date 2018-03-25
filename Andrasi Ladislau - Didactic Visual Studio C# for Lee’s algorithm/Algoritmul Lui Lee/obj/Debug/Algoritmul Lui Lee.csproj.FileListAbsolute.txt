@@ -1,0 +1,56 @@
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe.config
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.pdb
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csprojResolveAssemblyReference.cache
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form1.resources
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Properties.Resources.resources
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csproj.GenerateResource.Cache
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.exe
+c:\users\a\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.pdb
+C:\Users\A\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form2.resources
+C:\Users\A\documents\visual studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form3.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe.config
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.exe
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.pdb
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.pdb
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csprojResolveAssemblyReference.cache
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\MyWPFControl.baml
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\MyWPFControl.g.cs
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee_Content.g.cs
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee_MarkupCompile.cache
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.g.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form1.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form2.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form3.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Properties.Resources.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\lee 2\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csproj.GenerateResource.Cache
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe.config
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.exe
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.pdb
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.pdb
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csprojResolveAssemblyReference.cache
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form1.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form2.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form3.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Properties.Resources.resources
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csproj.GenerateResource.Cache
+C:\Users\AdminNI\Desktop\C#Aplicatii\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form4.resources
+C:\Users\A\Documents\Visual Studio 2013\Projects\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form4.resources
+I:\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe.config
+I:\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.exe
+I:\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.pdb
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe.config
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.exe
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.pdb
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.exe
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\bin\Debug\Algoritmul Lui Lee.pdb
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csprojResolveAssemblyReference.cache
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form1.resources
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form2.resources
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form3.resources
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form4.resources
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Properties.Resources.resources
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul Lui Lee.csproj.GenerateResource.Cache
+C:\Users\A\Desktop\Algoritmul Lui Lee\Algoritmul Lui Lee\obj\Debug\Algoritmul_Lui_Lee.Form5.resources
